@@ -1,7 +1,7 @@
 ### Hello! Welcome to my github profile, my name is Cleber Luis Simm.   
 
 ### A little about me
-I´m a full stack engineer with a Degree in Computer Science and more than 15 years of experience in software development, especially in web development both front-end and back-end, with Java, JSF, JavaScript, and some mobile development.   
+I´m a full-stack engineer with a Degree in Computer Science and more than 15 years of experience in software development, especially in web development both front-end and back-end, with Java, JSF, JavaScript, and some mobile development.   
 
 ### Where to find me - beyond github
 <a href="https://www.linkedin.com/in/clebersimm" target="_blank">
