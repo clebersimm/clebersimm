@@ -1,15 +1,16 @@
-### 👋 Hi there! I'm Cleber Luis Simm 
+### 👋 Hi there! I'm Cleber Luis Simm
 
-### A little about me
+### 🧑‍💻 A little about me
 I'm a full-stack engineer with a degree in Computer Science and over 15 years of experience in software development.  
-I specialize in web development (front-end and back-end) using technologies like Java, JSF, and JavaScript, and have some experience with mobile development.
+I specialize in web development, both front-end and back-end, using Java, JSF, and JavaScript. I also have some experience with mobile development.
 
-### Where to find me - beyond github
+### 🌐 Where to find me - beyond GitHub
 <a href="https://www.linkedin.com/in/clebersimm" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" title="Linkedin"/>
 </a>
 
-## Some techs I know
+
+### 🚀 Tech Stack
 
 ### For the Backend
 
