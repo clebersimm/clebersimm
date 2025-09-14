@@ -90,3 +90,14 @@ I thrive on solving complex problems and am currently expanding my expertise in 
 <img src="https://img.shields.io/badge/Python-339933?style=for-the-badge&logo=python&logoColor=white"/>
 
 
+
+
+### Hobbies & Interests   
+
+“Life is not made only of work.” I believe in nurturing creativity and balance through the things that bring joy and inspiration beyond the code.   
+
+🧙‍♂️ Playing RPGs – I enjoy strategic storytelling and immersive adventures, whether on tabletop or digital platforms.
+
+🎮 Video Games – Gaming keeps my reflexes sharp and fuels my imagination with rich worlds and challenges.
+
+📚 Reading Books – From tech and sci-fi to psychology and leadership, I’m always exploring new ideas and perspectives.
