@@ -13,7 +13,7 @@ I thrive on solving complex problems and am currently expanding my expertise in 
 - Graduate Certificate in IT Project Management
     - Estácio de Sá University - São José, Brazil | 2006 - 2007
 - Graduate Certificate in Distributed Software Architecture
-    - PUC Minas (Pontifical Catholic University of Minas Gerais) - Online Program | 2024 - ongoing
+    - PUC Minas (Pontifical Catholic University of Minas Gerais) - Online Program | 2024 - 2025
 
 ### 🌐 Where to find me - beyond GitHub
 <a href="https://www.linkedin.com/in/clebersimm" target="_blank">
